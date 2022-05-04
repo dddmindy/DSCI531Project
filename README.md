@@ -1,2 +1,2 @@
 # DSCI531Project
-Evaluating Bias in Mortage Lending
+Evaluating Bias in Mortgage Lending
